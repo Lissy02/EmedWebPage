@@ -1,0 +1,43 @@
+.chp {
+    width: 100%;
+}
+
+.container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 0px !important;
+}
+
+.containerA {
+    background-color: #61908A;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.btn {
+    border-radius: 100px;
+    margin: 1%;
+}
+
+
+/* area de investigacion */
+
+.containerI {
+    padding: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.container-cards {
+    padding: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.card {
+    margin: 3%;
+}
+
+.card-body {
+    text-align: center;
+}
