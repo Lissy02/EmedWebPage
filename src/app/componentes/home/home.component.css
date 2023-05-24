@@ -9,7 +9,7 @@
 }
 
 .containerA {
-    background-color: #61908A;
+    background-color: #00C2B5;
     padding-top: 4%;
     padding-bottom: 4%;
 }
@@ -19,11 +19,16 @@
     margin: 1%;
 }
 
+.btn-info {
+    background-color: #193E2E;
+    color: white;
+}
+
 
 /* area de investigacion */
 
 .containerI {
-    padding: 2%;
+    padding: 1%;
     margin-top: 2%;
     margin-bottom: 2%;
 }
