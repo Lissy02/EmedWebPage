@@ -1,0 +1,23 @@
+.container-title {
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+
+.barra {
+    background-color: #0BA5BE;
+    padding: 1% 0% 1%;
+    text-align: center;
+}
+
+.text-Box {
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+}
+
+.proyect-box {
+    border: solid;
+    border-color: #a8acad;
+    border-radius: 2%;
+}

@@ -9,7 +9,7 @@
 }
 
 .containerA {
-    background-color: #00C2B5;
+    background-color: #0BA5BE;
     padding-top: 4%;
     padding-bottom: 4%;
 }
@@ -20,7 +20,7 @@
 }
 
 .btn-info {
-    background-color: #193E2E;
+    background-color: #013F4E;
     color: white;
 }
 
@@ -39,10 +39,33 @@
     margin-bottom: 2%;
 }
 
+.container-cards .card {
+    padding: 1%;
+}
+
 .card {
     margin: 3%;
 }
 
 .card-body {
     text-align: center;
+}
+
+
+/* carusel  */
+
+.carousel-item img {
+    height: 640px;
+}
+
+
+/* container text  */
+
+.container-text {
+    text-align: center;
+    padding: 5%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
